@@ -24,4 +24,5 @@ int main(){
     }
 
     outfile.close();
+    ifstream infile;
 }
